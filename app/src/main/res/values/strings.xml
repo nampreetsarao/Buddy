@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MCA Buddy</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="nav_drawer_opened">drawer opened</string>
+    <string name="nav_drawer_closed">drawer closed</string>
+    <string name="title_activity_no_hamburger">NoHamburger</string>
+    <string name="title_activity_no_toolbar">NoToolbar</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="title_activity_change_role">ChangeRole</string>
+    <string name="title_activity_add_expertise">AddExpertise</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mcabuddy__flash_screen">MCABuddy_FlashScreen</string>
+    <string name="title_activity_mcabuddy__logout">MCABuddy_Logout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_mcabuddy__profile">MCABuddy_Profile</string>
+    <string name="title_activity_mcabuddy__add_user">MCABuddy_AddUser</string>
+    <string name="title_activity_mcabuddy__change_role">MCABuddy_ChangeRole</string>
+    <string name="title_activity_mcabuddy__add_expertise">MCABuddy_AddExpertise</string>
+    <string name="title_activity_mcabuddy__login">MCABuddy_Login</string>
+
+    <string name="login_button">Log In</string>
+    <string name="user_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="new_user">New User</string>
+    <string name="title_activity_mcabuddy__admin_dashboard">Admin Dashboard</string>
+    <string name="title_activity_mcabuddy__user_dashboard">User Dashboard</string>
+
+    <string name="fname_hint">First Name</string>
+    <string name="lname_hint">Last Name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="pwd_hint">Password</string>
+    <string name="accessToken_hint">Access Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="submit">Submit</string>
+    <string name="spinner_title">Select Role</string>
+    <string name="title_activity_list_item_details">list_item_details</string>
+
+    <!-- Action Bar action items -->
+    <string name="action_search">Sarch</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Updates</string>
+    <string name="search_hint">Search</string>
+    <string name="search_label">MCA Buddy</string>
+</resources>
